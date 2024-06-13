@@ -7,6 +7,8 @@
  Also, the OpenWeather platform provides additional weather parameters to the A-S System, which is visible on the display.
  When the smoke sensor detects smoke, an alarm is triggered and the user receives a warning message on the WhatsApp application.
  The fan neutralizes the smoke.
+ 
+> A system demonstration is available at the [_link_](https://youtu.be/nJOIr0ZtbsY).
  <div align="center" class="container">
    <h3> PROJECT LAYOUT </h3>
    <div class="row">
